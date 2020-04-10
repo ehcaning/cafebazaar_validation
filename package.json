@@ -1,0 +1,26 @@
+{
+  "name": "cafebazaar_validation",
+  "version": "1.0.0",
+  "description": "A simple npm module for validate https://cafebazaar.ir/ payments",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehcaning/cafebazaar_validation.git"
+  },
+  "keywords": [
+    "payment",
+    "validation"
+  ],
+  "author": "ehcan@icloud.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ehcaning/cafebazaar_validation/issues"
+  },
+  "homepage": "https://github.com/Ehcaning/cafebazaar_validation#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
